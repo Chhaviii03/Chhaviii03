@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chhavi</h1>
-<h3 align="center">Passionate about AI and ML</h3>
-
+<h3 align="center">I'm passionate about AI and ML</h3>
+<p align="center">
+  <img src="path-to-your-image.jpg" alt="Your image description" width="400"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhaviii03&label=Profile%20views&color=0e75b6&style=flat" alt="chhaviii03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhaviii03" alt="chhaviii03" /></a> </p>
