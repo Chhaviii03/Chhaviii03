@@ -58,6 +58,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a> 
 </p>
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaviii03&layout=compact&theme=radical" alt="chhaviii03" width="50%" />
+</p>
+
 
 
 
