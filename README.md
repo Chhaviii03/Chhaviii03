@@ -39,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaviii03&layout=compact" alt="chhaviii03" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=chhaviii03" alt="chhaviii03" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Chhaviii03" alt="chhaviii03" /></p>
 
 <!--
 **Chhaviii03/Chhaviii03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
