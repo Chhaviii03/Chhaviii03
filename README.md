@@ -2,8 +2,9 @@
 <h3 align="center">Passionate about AI and ML</h3>
 
 <p align="left"> 
-  <img src="[https://komarev.com/ghpvc/?username=chhaviii03&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/premium-photo/vampire-lavender-black-pink-streamingroom-livecam-background-anime_300932-13348.jpg)" alt="chhaviii03" /> 
+  <img src="https://img.freepik.com/premium-photo/vampire-lavender-black-pink-streamingroom-livecam-background-anime_300932-13348.jpg" alt="chhaviii03" width="400" /> 
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
