@@ -2,7 +2,9 @@
 <h3 align="center">Passionate about AI and ML</h3>
 
 <p align="left"> 
-  <img src="https://img.freepik.com/premium-photo/vampire-lavender-black-pink-streamingroom-livecam-background-anime_300932-13348.jpg" alt="chhaviii03" width="400" /> 
+  <img src="https://img.freepik.com/premium-photo/vampire-lavender-black-pink-streamingroom-livecam-background-anime_300932-13348.jpg" 
+       alt="chhaviii03" 
+       style="width: 100%; height: 200;" /> 
 </p>
 
 
